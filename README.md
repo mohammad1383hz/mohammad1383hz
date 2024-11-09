@@ -7,14 +7,13 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,vue,pinia,js,mysql,redis,linux,git,docker" />
-        <img src="https://skillicons.dev/icons?i=laravel,git,docker" />
+        <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=vue" />
     <img src="https://skillicons.dev/icons?i=pinia,js" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=redis" />
-    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker" />
     
  
   </a>
